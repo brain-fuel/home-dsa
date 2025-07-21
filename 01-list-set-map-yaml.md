@@ -1,4 +1,3 @@
-
 # 🏡 Home Logic: Making Life More Livable with YAML
 
 What if you could take the swirling mess of morning routines, meals, chores, and choices, and turn them into calm, clear, checklists you could trust?
@@ -92,7 +91,7 @@ Anna-Mae: Toyota
 David: Jeep
 ```
 
-### Back to Morning Things
+### 🌅 Back to Morning Things
 
 Now, let's look at Morning Things and see what Mom has been teaching you!
 
@@ -108,6 +107,12 @@ Morning Things:
       ? Clothe Yourself
       ? Brush Your Teeth
 ```
+
+Notice how:
+- Some things are done in order (a **list**).
+- Some things can be done in any order (a **set**).
+- And we’ve labeled when it should start and end (a **map**).
+
 ---
 
 ## 🔧 Tools (For Nerds and Tinkerers)
