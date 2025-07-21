@@ -52,7 +52,7 @@ We’ll build everything using just **three types of structure**.
 
 ### 📋 1. Lists
 
-> An ordered collection of items—like a checklist.
+> An ordered collection of items, like a checklist.
 
 Example: *Going on a Run*
 ```yaml
