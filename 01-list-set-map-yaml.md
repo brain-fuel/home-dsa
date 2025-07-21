@@ -49,9 +49,9 @@ If not, that's okay. We'll go over the three core concepts next, so we can retur
 
 We’ll build everything using just **three types of structure**.
 
-- **Lists**
-- **Sets**
-- **Maps**
+1. **Lists**
+2. **Sets**
+3. **Maps**
 
 ### 📋 1. Lists
 
