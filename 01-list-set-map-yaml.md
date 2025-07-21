@@ -2,14 +2,14 @@
 
 What if you could take the swirling mess of morning routines, meals, chores, and choices, and turn them into calm, clear, checklists you could trust?
 
-That’s what this is about.
+That's what this is about.
 
 we're using a simple, human-friendly format called **YAML** to help us:
 - Track what needs doing
 - Sort out what belongs where
 - Help each other stay on the same page
 
-YAML stands for **"Yet Another Markup Language"**. But, don’t worry, it's really just a fancy grocery list with better structure.
+YAML stands for **"Yet Another Markup Language"**. But, don't worry, it's really just a fancy grocery list with better structure.
 
 ---
 
@@ -17,11 +17,11 @@ YAML stands for **"Yet Another Markup Language"**. But, don’t worry, it's real
 
 Have you ever thought something like this?
 
-> “I’m trying to get ready but I keep forgetting something.”
+> "I'm trying to get ready but I keep forgetting something."
 
-> “What did Mom *mean* by ‘everything’?”
+> "What did Mom *mean* by 'everything'?"
 
-Here’s a real-life way to *see* and *improve* the morning routine:
+Here's a real-life way to *see* and *improve* the morning routine:
 
 ```yaml
 Morning Things:
@@ -83,7 +83,7 @@ Example: *Breakfast Drinks at a Restaurant*
 
 ### 🏷️ 3. Maps
 
-> A set of name/value pairs, like “who has what.”
+> A set of name/value pairs, like "who has what."
 
 Example: *Owners and Primary Vehicles*
 ```yaml
@@ -127,7 +127,7 @@ These are some command-line tools we'll use to process YAML:
 - `dsq` for searching YAML using SQL-like queries
 - `fzf` for finding files and things quickly
 
-If you're not ready for these, don’t worry. we'll get to them when you need them.
+If you're not ready for these, don't worry. we'll get to them when you need them.
 
 ---
 
