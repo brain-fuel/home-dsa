@@ -49,6 +49,10 @@ If not, that's okay. We'll go over the three core concepts next, so we can retur
 
 We’ll build everything using just **three types of structure**.
 
+- **Lists**
+- **Sets**
+- **Maps**
+
 ### 📋 1. Lists
 
 > An ordered collection of items, like a checklist.
@@ -65,7 +69,7 @@ Example: *Going on a Run*
 
 ### 🧃 2. Sets
 
-> An unordered group with no duplicates, like drink choices on a menu.
+> An unordered collection of items with no duplicates, like drink choices on a menu.
 
 Example: *Breakfast Drinks at a Restaurant*
 ```yaml
@@ -79,7 +83,7 @@ Example: *Breakfast Drinks at a Restaurant*
 
 ### 🏷️ 3. Maps
 
-> A set of name/value pairs—like “who has what.”
+> A set of name/value pairs, like “who has what.”
 
 Example: *Owners and Primary Vehicles*
 ```yaml
