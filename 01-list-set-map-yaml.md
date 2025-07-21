@@ -4,12 +4,12 @@ What if you could take the swirling mess of morning routines, meals, chores, and
 
 That’s what this is about.
 
-We’re using a simple, human-friendly format called **YAML** to help us:
+we're using a simple, human-friendly format called **YAML** to help us:
 - Track what needs doing
 - Sort out what belongs where
 - Help each other stay on the same page
 
-YAML stands for **"Yet Another Markup Language"**. But, don’t worry, it’s really just a fancy grocery list with better structure.
+YAML stands for **"Yet Another Markup Language"**. But, don’t worry, it's really just a fancy grocery list with better structure.
 
 ---
 
@@ -39,15 +39,15 @@ Morning Things:
 Notice how:
 - Some things are done in order (a **list**).
 - Some things can be done in any order (a **set**).
-- And we’ve labeled when it should start and end (a **map**).
+- And we've labeled when it should start and end (a **map**).
 
-If not, that's okay. We'll go over the three core concepts next, so we can return to it later and understand the whole thing!
+If not, that's okay. we'll go over the three core concepts next, so we can return to it later and understand the whole thing!
 
 ---
 
 ## 🧠 Three Core Concepts
 
-We’ll build everything using just **three types of structure**.
+we'll build everything using just **three types of structure**.
 
 1. **Lists**
 2. **Sets**
@@ -115,25 +115,25 @@ Morning Things:
 Notice how:
 - Some things are done in order (a **list**).
 - Some things can be done in any order (a **set**).
-- And we’ve labeled when it should start and end (a **map**).
+- And we've labeled when it should start and end (a **map**).
 
 ---
 
 ## 🔧 Tools (For Nerds and Tinkerers)
 
-These are some command-line tools we’ll use to process YAML:
+These are some command-line tools we'll use to process YAML:
 - `yq` for querying and editing YAML
 - `yamllint` for checking your YAML for mistakes
 - `dsq` for searching YAML using SQL-like queries
 - `fzf` for finding files and things quickly
 
-If you're not ready for these, don’t worry. We’ll get to them when you need them.
+If you're not ready for these, don’t worry. we'll get to them when you need them.
 
 ---
 
 ## 🌟 What Comes Next
 
-As we learn more as a family, we’re going to start using simple YAML files to:
+As we learn more as a family, we're going to start using simple YAML files to:
 - Make morning and evening routines easier
 - Track household chores
 - Pick meal ideas
@@ -141,4 +141,4 @@ As we learn more as a family, we’re going to start using simple YAML files to:
 
 Eventually, we'll get to the point where you can edit these files yourself or just read them and say what you want changed.
 
-This isn’t about being perfect. It’s about making life easier, together.
+This isn't about being perfect. it's about making life easier, together.
