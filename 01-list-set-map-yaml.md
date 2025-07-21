@@ -97,7 +97,7 @@ David: Jeep
 
 ### 🌅 Back to Morning Things
 
-Now, let's look at Morning Things and see what Mom has been teaching you!
+Now, let's take a fresh look at Morning Things and see what Mom has been teaching you!
 
 ```yaml
 Morning Things:
