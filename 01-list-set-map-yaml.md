@@ -26,7 +26,7 @@ Here's a real-life way to *see* and *improve* the morning routine:
 
 ```yaml
 Morning Things:
-  Starting Time: "07:20"
+  Starting Time: "07:15"
   Completion Deadline: "07:30"
   Tasks:
     - Get Up
