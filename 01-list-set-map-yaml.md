@@ -66,8 +66,11 @@ Example: *Going on a Run*
 - Put on running shoes
 - Exit the house
 - Run
-- Return
+- Enter the house
+- Remove running shoes
+- Disrobe
 - Shower
+- Put on daytime clothes
 ```
 
 ### 🧃 2. Sets
