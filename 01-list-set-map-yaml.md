@@ -109,7 +109,7 @@ Now, let's take a fresh look at Morning Things and see what Mom has been teachin
 
 ```yaml
 Morning Things:
-  Starting Time: "07:20"
+  Starting Time: "07:15"
   Completion Deadline: "07:30"
   Tasks:
     - Get Up
