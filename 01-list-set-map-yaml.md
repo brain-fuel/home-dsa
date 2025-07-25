@@ -4,7 +4,8 @@ What if you could take the swirling mess of morning routines, meals, chores, and
 
 That's what this is about.
 
-we're using a simple, human-friendly format called **YAML** to help us:
+We're using a simple, human-friendly format called **YAML** to help us:
+
 - Track what needs doing
 - Sort out what belongs where
 - Help each other stay on the same page
@@ -37,6 +38,7 @@ Morning Things:
 ```
 
 Notice how:
+
 - Some things are done in order (a **list**).
 - Some things can be done in any order (a **set**).
 - And we've labeled when it should start and end (a **map**).
@@ -47,7 +49,7 @@ If not, that's okay. we'll go over the three core concepts next, so we can retur
 
 ## 🧠 Three Core Concepts
 
-we'll build everything using just **three types of structure**.
+We'll build everything using just **three types of structure**.
 
 1. **Lists**
 2. **Sets**
@@ -58,6 +60,7 @@ we'll build everything using just **three types of structure**.
 > An ordered collection of items, like a checklist.
 
 Example: *Going on a Run*
+
 ```yaml
 - Put on running clothes
 - Put on running shoes
@@ -72,6 +75,7 @@ Example: *Going on a Run*
 > An unordered collection of items with no duplicates, like drink choices on a menu.
 
 Example: *Breakfast Drinks at a Restaurant*
+
 ```yaml
 !!set
   ? Coffee
@@ -86,6 +90,7 @@ Example: *Breakfast Drinks at a Restaurant*
 > A set of name/value pairs, like "who has what."
 
 Example: *Owners and Primary Vehicles*
+
 ```yaml
 Donovan: Honda
 Martti: Kia
@@ -113,6 +118,7 @@ Morning Things:
 ```
 
 Notice how:
+
 - Some things are done in order (a **list**).
 - Some things can be done in any order (a **set**).
 - And we've labeled when it should start and end (a **map**).
@@ -122,6 +128,7 @@ Notice how:
 ## 🔧 Tools (For Nerds and Tinkerers)
 
 These are some command-line tools we'll use to process YAML:
+
 - `yq` for querying and editing YAML
 - `yamllint` for checking your YAML for mistakes
 - `dsq` for searching YAML using SQL-like queries
@@ -134,6 +141,7 @@ If you're not ready for these, don't worry. we'll get to them when you need them
 ## 🌟 What Comes Next
 
 As we learn more as a family, we're going to start using simple YAML files to:
+
 - Make morning and evening routines easier
 - Track household chores
 - Pick meal ideas
